@@ -1,6 +1,16 @@
 style.css
 
-charcoal:283845
-gunmetal: 202C39
+body {
+	background-color: #DDDDDD
+}
 
-font-family: 'Playfair Display', serif;
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-weight: normal
+	text-color: #202C39
+	text-align: center;
+}
+
+
+
+
