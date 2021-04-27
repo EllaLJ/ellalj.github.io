@@ -1,15 +1,21 @@
-style.css
-
 body {
 	background-color: #DDDDDD
 }
 
-h1 {
+
+h1, h2, p, ul {
+
 	font-family: 'Playfair Display', serif;
 	font-weight: normal
 	text-color: #202C39
-	text-align: center;
 }
+
+
+img{
+
+}
+
+
 
 
 
