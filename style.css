@@ -2,12 +2,24 @@ body {
 background-color: #DDDDDD;
 }
 
-
 h1 {
 
 font-family: Verdana, serif;
 font-weight: normal
 color: #202C39;
+}
+
+p {
+font-family: Verdana, serif;
+font-weight: normal
+color: #202C39; 
+}
+
+ul {
+
+font-family: Verdana, serif;
+font-weight: normal
+color: #202C39;  
 }
 
 
