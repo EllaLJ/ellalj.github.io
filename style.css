@@ -1,33 +1,30 @@
+style.css
+
 body {
-background-color: #DDDDDD;
+background-color: white;
 }
+
 
 h1 {
-
 font-family: Verdana, serif;
 font-weight: normal
-color: #202C39;
+color: navy blue;
+text-decoration: underline;
 }
 
-h2 {
 
+h2 {
 font-family: Verdana, serif;
 font-weight: normal
-color: #202C39;
+color: navy blue;
+text-decoration: underline;
 }
 
 
 p {
 font-family: Verdana, serif;
 font-weight: normal
-color: #202C39; 
-}
-
-ul {
-
-font-family: Verdana, serif;
-font-weight: normal
-color: #202C39;  
+color: navy blue;
 }
 
 
@@ -35,4 +32,9 @@ img{
 {border-style: double;}
 
 }
+
+
+
+
+
 
